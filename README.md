@@ -1,4 +1,4 @@
-# shirvani_405188790_ofdm_cnn_2025
+# shirvany_405188790_ofdm_cnn_2025
 
 **Student:** Mohammad Hossein Shirvani (ID: 405188790)  
 **Project:** Deep Learning-Based Channel Estimation with 1D CNN for OFDM Systems.  
